@@ -19,9 +19,13 @@
   \usepackage[varqu,varl,scale=0.9]{zi4}
 \fi
 
+\defbibfilter{my_papers}{ keyword=my_paper}
+
 %% Only needed if you want a Publication List
 \addbibresource{own-bib.bib}
 \addbibresource{others-bib.bib}
+% Define a custom filter for your own papers
+
 
 %% Specify your last name and first name (as given in the .bib) to automatically bold your own name in the publications list. One caveat: You need to write \bibnamedelima where there's a space in your name for this to work properly for now...
 \myname{Devulapalli}{Vivek} %\bibnamedelima V}

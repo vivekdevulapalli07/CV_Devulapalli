@@ -3,7 +3,7 @@
 \nocite{*}
 
 % First print your own papers using the custom filter
-\printbibliography[heading={subbibliography},title={First Author Publications}, filter=my_paper]
+\printbibliography[heading={subbibliography}, title={First Author Publications}, filter=my_paper]
 
-% Then print papers where you're a co-author
-\printbibliography[heading={subbibliography},title={Co-authored Publications}, nottype=misc, notfilter=my_paper]
+% Then print papers where you're a co-author (all except those with the my_paper keyword)
+\printbibliography[heading={subbibliography}, title={Co-authored Publications}, filter=coauthor_paper, nottype=misc]

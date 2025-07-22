@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.3.14)  14 MAR 2025 15:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.3.14)  14 MAR 2025 16:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1522,25 +1522,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--22
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `cv-llt.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-Package biblatex Warning: Please rerun LaTeX.
-
 Package logreq Info: Writing requests to 'cv-llt.run.xml'.
 \openout1 = `cv-llt.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 39134 strings out of 474485
- 788388 string characters out of 5744206
- 1952542 words of memory out of 5000000
- 60528 multiletter control sequences out of 15000+600000
- 841756 words of font info for 188 fonts, out of 8000000 for 9000
+ 39146 strings out of 474485
+ 788770 string characters out of 5744206
+ 1951542 words of memory out of 5000000
+ 60537 multiletter control sequences out of 15000+600000
+ 842168 words of font info for 190 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  100i,11n,107p,1153b,5183s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/devi/AppData/Local/Programs/MiKTeX/fonts/type1/impallari/cabin/Cabi
@@ -1558,7 +1551,7 @@ zi4r.pfb><C:/Users/devi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmmi10.pfb><C:/Users/devi/AppData/Local/Programs/MiKTeX/fonts/type1/publi
 c/amsfonts/cm/cmr10.pfb><C:/Users/devi/AppData/Local/Programs/MiKTeX/fonts/type
 1/public/amsfonts/cm/cmr8.pfb>
-Output written on cv-llt.pdf (4 pages, 363400 bytes).
+Output written on cv-llt.pdf (4 pages, 363638 bytes).
 PDF statistics:
  189 PDF objects out of 1000 (max. 8388607)
  34 named destinations out of 1000 (max. 500000)

@@ -1,22 +1,22 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'cv-llt.blg'
-[107] biber-MSWIN64:340> INFO - === 
-[150] Biber.pm:419> INFO - Reading 'cv-llt.bcf'
-[267] Biber.pm:976> INFO - Using all citekeys in bib section 0
-[285] Biber.pm:4419> INFO - Processing section 0
-[297] Biber.pm:4610> INFO - Looking for bibtex file 'own-bib.bib' for section 0
-[358] bibtex.pm:1713> INFO - LaTeX decoding ...
-[367] bibtex.pm:1519> INFO - Found BibTeX data source 'own-bib.bib'
-[412] Biber.pm:4610> INFO - Looking for bibtex file 'others-bib.bib' for section 0
-[470] bibtex.pm:1713> INFO - LaTeX decoding ...
-[482] bibtex.pm:1519> INFO - Found BibTeX data source 'others-bib.bib'
-[553] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[554] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[554] Biber.pm:4239> INFO - Sorting list 'ymdnt/apasortcite//global/global' of type 'entry' with template 'ymdnt' and locale 'en-US'
-[554] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[582] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[582] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[582] Biber.pm:4239> INFO - Sorting list 'ymdnt/global//global/global' of type 'entry' with template 'ymdnt' and locale 'en-US'
-[583] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[601] bbl.pm:660> INFO - Writing 'cv-llt.bbl' with encoding 'UTF-8'
-[635] bbl.pm:763> INFO - Output to cv-llt.bbl
+[108] biber-MSWIN64:340> INFO - === 
+[154] Biber.pm:419> INFO - Reading 'cv-llt.bcf'
+[276] Biber.pm:976> INFO - Using all citekeys in bib section 0
+[293] Biber.pm:4419> INFO - Processing section 0
+[304] Biber.pm:4610> INFO - Looking for bibtex file 'own-bib.bib' for section 0
+[371] bibtex.pm:1713> INFO - LaTeX decoding ...
+[381] bibtex.pm:1519> INFO - Found BibTeX data source 'own-bib.bib'
+[426] Biber.pm:4610> INFO - Looking for bibtex file 'others-bib.bib' for section 0
+[491] bibtex.pm:1713> INFO - LaTeX decoding ...
+[502] bibtex.pm:1519> INFO - Found BibTeX data source 'others-bib.bib'
+[571] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[571] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[571] Biber.pm:4239> INFO - Sorting list 'ymdnt/apasortcite//global/global' of type 'entry' with template 'ymdnt' and locale 'en-US'
+[571] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[600] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[600] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[600] Biber.pm:4239> INFO - Sorting list 'ymdnt/global//global/global' of type 'entry' with template 'ymdnt' and locale 'en-US'
+[600] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[619] bbl.pm:660> INFO - Writing 'cv-llt.bbl' with encoding 'UTF-8'
+[652] bbl.pm:763> INFO - Output to cv-llt.bbl

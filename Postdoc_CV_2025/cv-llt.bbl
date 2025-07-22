@@ -39,10 +39,10 @@
            given={M.J.R.},
            giveni={M\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=f025b00a395af14211b6d628edf7470f}{%
+        {{un=0,uniquepart=base,hash=a20983aadbe1ead4e9cb876729dea1d7}{%
            family={Devulapalli},
            familyi={D\bibinitperiod},
-           given={V.},
+           given={Vivek},
            giveni={V\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=e5f40af1df8f53d4d26024dd112fe887}{%
@@ -53,11 +53,11 @@
            givenun=0}}%
       }
       \strng{namehash}{f9488135aaec84467cefbc86ef40a696}
-      \strng{fullhash}{81ae17a253b435a48cf136b8715d164f}
-      \strng{bibnamehash}{81ae17a253b435a48cf136b8715d164f}
-      \strng{authorbibnamehash}{81ae17a253b435a48cf136b8715d164f}
+      \strng{fullhash}{02f106fbbd265181aae81ce1ac1cbbe6}
+      \strng{bibnamehash}{02f106fbbd265181aae81ce1ac1cbbe6}
+      \strng{authorbibnamehash}{02f106fbbd265181aae81ce1ac1cbbe6}
       \strng{authornamehash}{f9488135aaec84467cefbc86ef40a696}
-      \strng{authorfullhash}{81ae17a253b435a48cf136b8715d164f}
+      \strng{authorfullhash}{02f106fbbd265181aae81ce1ac1cbbe6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -67,7 +67,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Materials Characterization}
       \field{month}{3}
-      \field{title}{Effect of the scanning strategy on texture of grain-oriented electrical steel (Fe-4wt. Si) processed via laser powder-bed fusion and subsequent thermomechanical processing}
+      \field{title}{Effect of the scanning strategy on texture of grain-oriented electrical steel (Fe-4wt.\% Si) processed via laser powder-bed fusion and subsequent thermomechanical processing}
       \field{volume}{221}
       \field{year}{2025}
       \true{nocite}
@@ -797,10 +797,10 @@
            given={M.J.R.},
            giveni={M\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=f025b00a395af14211b6d628edf7470f}{%
+        {{un=0,uniquepart=base,hash=a20983aadbe1ead4e9cb876729dea1d7}{%
            family={Devulapalli},
            familyi={D\bibinitperiod},
-           given={V.},
+           given={Vivek},
            giveni={V\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=e5f40af1df8f53d4d26024dd112fe887}{%
@@ -811,11 +811,11 @@
            givenun=0}}%
       }
       \strng{namehash}{f9488135aaec84467cefbc86ef40a696}
-      \strng{fullhash}{81ae17a253b435a48cf136b8715d164f}
-      \strng{bibnamehash}{81ae17a253b435a48cf136b8715d164f}
-      \strng{authorbibnamehash}{81ae17a253b435a48cf136b8715d164f}
+      \strng{fullhash}{02f106fbbd265181aae81ce1ac1cbbe6}
+      \strng{bibnamehash}{02f106fbbd265181aae81ce1ac1cbbe6}
+      \strng{authorbibnamehash}{02f106fbbd265181aae81ce1ac1cbbe6}
       \strng{authornamehash}{f9488135aaec84467cefbc86ef40a696}
-      \strng{authorfullhash}{81ae17a253b435a48cf136b8715d164f}
+      \strng{authorfullhash}{02f106fbbd265181aae81ce1ac1cbbe6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -825,7 +825,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Materials Characterization}
       \field{month}{3}
-      \field{title}{Effect of the scanning strategy on texture of grain-oriented electrical steel (Fe-4wt. Si) processed via laser powder-bed fusion and subsequent thermomechanical processing}
+      \field{title}{Effect of the scanning strategy on texture of grain-oriented electrical steel (Fe-4wt.\% Si) processed via laser powder-bed fusion and subsequent thermomechanical processing}
       \field{volume}{221}
       \field{year}{2025}
       \true{nocite}

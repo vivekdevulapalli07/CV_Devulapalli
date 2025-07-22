@@ -1,0 +1,22 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[1] Config.pm:331> INFO - Logfile is 'Devulapalli_CV.blg'
+[170] biber-MSWIN64:342> INFO - === 
+[212] Biber.pm:421> INFO - Reading 'Devulapalli_CV.bcf'
+[343] Biber.pm:999> INFO - Using all citekeys in bib section 0
+[363] Biber.pm:4487> INFO - Processing section 0
+[375] Biber.pm:4678> INFO - Looking for bibtex file 'own-bib.bib' for section 0
+[435] bibtex.pm:1713> INFO - LaTeX decoding ...
+[448] bibtex.pm:1519> INFO - Found BibTeX data source 'own-bib.bib'
+[519] Biber.pm:4678> INFO - Looking for bibtex file 'others-bib.bib' for section 0
+[580] bibtex.pm:1713> INFO - LaTeX decoding ...
+[593] bibtex.pm:1519> INFO - Found BibTeX data source 'others-bib.bib'
+[694] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[695] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[695] Biber.pm:4307> INFO - Sorting list 'ymdnt/apasortcite//global/global/global' of type 'entry' with template 'ymdnt' and locale 'en-US'
+[695] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
+[753] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[753] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[753] Biber.pm:4307> INFO - Sorting list 'ymdnt/global//global/global/global' of type 'entry' with template 'ymdnt' and locale 'en-US'
+[754] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
+[783] bbl.pm:676> INFO - Writing 'Devulapalli_CV.bbl' with encoding 'UTF-8'
+[843] bbl.pm:779> INFO - Output to Devulapalli_CV.bbl

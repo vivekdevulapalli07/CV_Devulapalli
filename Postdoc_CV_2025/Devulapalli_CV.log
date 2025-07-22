@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.22.0 (MiKTeX 25.4) (format=lualatex 2025.7.22)  22 JUL 2025 17:33
+This is LuaHBTeX, Version 1.22.0 (MiKTeX 25.4) (format=lualatex 2025.7.22)  22 JUL 2025 19:02
  restricted system commands enabled.
 **Devulapalli_CV.tex
 (./Devulapalli_CV.tex
@@ -1223,20 +1223,116 @@ Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 \RaggedRightParindent=\skip104
 \JustifyingParindent=\skip105
 )
+(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/mhchem/mhchem.sty
+Package: mhchem 2024/01/29 v4.10 for typesetting chemical formulae
+
+(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2025/06/16 v2.17y AMS math features
+\@mathmargin=\skip106
+
+For additional information on amsmath, use the `?' option.
+(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+
+(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks44
+\ex@=\dimen278
+)
+LaTeX Info: Redefining \text on input line 28.
+)
+(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen279
+)
+(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count477
+LaTeX Info: Redefining \frac on input line 235.
+\uproot@=\count478
+\leftroot@=\count479
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count480
+\DOTSCASE@=\count481
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box91
+\strutbox@=\box92
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen280
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count482
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count483
+\dotsspace@=\muskip22
+\c@parentequation=\count484
+\dspbrk@lvl=\count485
+\tag@help=\toks45
+\row@=\count486
+\column@=\count487
+\maxfields@=\count488
+\andhelp@=\toks46
+\eqnshift@=\dimen281
+\alignsep@=\dimen282
+\tagshift@=\dimen283
+\tagwidth@=\dimen284
+\totwidth@=\dimen285
+\lineht@=\dimen286
+\@envbody=\toks47
+\multlinegap=\skip107
+\multlinetaggap=\skip108
+\mathdisplay@stack=\toks48
+LaTeX Info: Redefining \[ on input line 2949.
+LaTeX Info: Redefining \] on input line 2950.
+)
+(C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/chemgreek/chemgreek.sty
+Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use
+ in chemistry (CN)
+\l__chemgreek_tmpa_int=\count489
+\g__chemgreek_tmpa_int=\count490
+)
+\l__mhchem_ce_distanceFromLastComma_int=\count491
+\__mhchem_arrow_extPgfLength_skip=\skip109
+\mhchem@minispace@tmp=\skip110
+\mhchem@minibackspace@tmp=\skip111
+\mhchem@bondwidth=\skip112
+\mhchem@bondheight=\skip113
+\mhchem@smallbondwidth@tmpA=\skip114
+\mhchem@smallbondwidth@tmpB=\skip115
+\mhchem@smallbondwidth=\skip116
+\mhchem@bondtmp@minussidebearingleft=\skip117
+\mhchem@bondtmp@minussidebearingright=\skip118
+\l__mhchem_option_version_int=\count492
+\mhchem@option@minusmathsidebearingleft=\dimen287
+\mhchem@option@minusmathsidebearingright=\dimen288
+\mhchem@option@minustextsidebearingleft=\dimen289
+\mhchem@option@minustextsidebearingright=\dimen290
+)
 (C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/microtype/microtype.sty
 Package: microtype 2025/07/09 v3.2b Micro-typographical refinements (RS)
-\MT@toks=\toks44
-\MT@tempbox=\box91
-\MT@count=\count477
+\MT@toks=\toks49
+\MT@tempbox=\box93
+\MT@count=\count493
 LaTeX Info: Redefining \noprotrusionifhmode on input line 1087.
 LaTeX Info: Redefining \leftprotrusion on input line 1088.
-\MT@prot@toks=\toks45
+\MT@prot@toks=\toks50
 LaTeX Info: Redefining \rightprotrusion on input line 1107.
 LaTeX Info: Redefining \textls on input line 1449.
-\MT@outer@kern=\dimen278
+\MT@outer@kern=\dimen291
 LaTeX Info: Redefining \microtypecontext on input line 2053.
 LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
-\MT@listname@count=\count478
+\MT@listname@count=\count494
 
 (C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/microtype/microtype-luat
 ex.def
@@ -1246,7 +1342,7 @@ Lua module: microtype 2025/07/09 v3.2b microtype module.
 Module microtype Info: overwriting function `keepligature' on input line 63
 LaTeX Info: Redefining \lsstyle on input line 779.
 LaTeX Info: Redefining \lslig on input line 779.
-\MT@outer@space=\skip106
+\MT@outer@space=\skip119
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
@@ -1261,20 +1357,20 @@ Lua module: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
 .sty
 Package: fontspec-luatex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaT
 eX
-\l__fontspec_script_int=\count479
-\l__fontspec_language_int=\count480
-\l__fontspec_strnum_int=\count481
-\l__fontspec_tmp_int=\count482
-\l__fontspec_tmpa_int=\count483
-\l__fontspec_tmpb_int=\count484
-\l__fontspec_tmpc_int=\count485
-\l__fontspec_em_int=\count486
-\l__fontspec_emdef_int=\count487
-\l__fontspec_strong_int=\count488
-\l__fontspec_strongdef_int=\count489
-\l__fontspec_tmpa_dim=\dimen279
-\l__fontspec_tmpb_dim=\dimen280
-\l__fontspec_tmpc_dim=\dimen281
+\l__fontspec_script_int=\count495
+\l__fontspec_language_int=\count496
+\l__fontspec_strnum_int=\count497
+\l__fontspec_tmp_int=\count498
+\l__fontspec_tmpa_int=\count499
+\l__fontspec_tmpb_int=\count500
+\l__fontspec_tmpc_int=\count501
+\l__fontspec_em_int=\count502
+\l__fontspec_emdef_int=\count503
+\l__fontspec_strong_int=\count504
+\l__fontspec_strongdef_int=\count505
+\l__fontspec_tmpa_dim=\dimen292
+\l__fontspec_tmpb_dim=\dimen293
+\l__fontspec_tmpc_dim=\dimen294
  (C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/base/fontenc.sty
 Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
 )
@@ -1285,18 +1381,18 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
 (C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/xkeyval/xkeyval.tex
 (C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks46
-\XKV@tempa@toks=\toks47
+\XKV@toks=\toks51
+\XKV@tempa@toks=\toks52
 )
-\XKV@depth=\count490
+\XKV@depth=\count506
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )) (C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/base/textcomp.sty
 Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
 )
 (C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty
 (C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/generic/xstring/xstring.tex
-\xs_counta=\count491
-\xs_countb=\count492
+\xs_counta=\count507
+\xs_countb=\count508
 )
 Package: xstring 2023/08/22 v1.86 String manipulations (CT)
 )
@@ -1309,7 +1405,7 @@ LaTeX Font Info:    Changing Cochineal-OsF sub-encoding to TS1/0 on input line
 11.
 LaTeX Font Info:    Changing Cochineal-TOsF sub-encoding to TS1/0 on input line
  11.
-\coch@cnt=\count493
+\coch@cnt=\count509
 LaTeX Info: Redefining \slshape on input line 340.
 LaTeX Info: Redefining \textsl on input line 341.
 LaTeX Info: Redefining \oldstylenums on input line 359.
@@ -1623,7 +1719,7 @@ n;language=dflt;+tlig;+swsh;+pnum;+lnum;+smcp;"
 sty
 Package: realscripts 2016/02/13 v0.3d Access OpenType subscripts and superscrip
 ts
-\subsupersep=\dimen282
+\subsupersep=\dimen295
 )) (C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/cabin/cabin.sty
 Package: cabin 2023/09/25 (Bob Tennent) Supports Cabin fonts for all LaTeX engi
 nes.
@@ -1822,7 +1918,7 @@ ode;script=latn;language=dflt;+tlig;"
 Package: zi4 2019/05/17 v1.12
 
 `inconsolata-zi4' v1.12, 2019/05/17 Text macros for Inconsolata (msharpe)
-\zifour@ocount=\count494
+\zifour@ocount=\count510
 )
 Excluding comment 'fullonly' Excluding 'fullonly' comment.
 Package csquotes Info: Checking for multilingual support...
@@ -1906,7 +2002,7 @@ n;language=dflt;+tlig;+pnum;+onum;"
 n;language=dflt;+tlig;+pnum;+onum;+smcp;"
 
 LaTeX Font Info:    Font shape `TU/Cochineal(4)/m/n' will be
-(Font)              scaled to size 10.95pt on input line 69.
+(Font)              scaled to size 10.95pt on input line 70.
 luaotfload | cache : Lookup cache loaded from C:/Users/devi/AppData/Local/MiKTeX
 /luatex-cache/generic/names/luaotfload-lookup-cache.luc.
 
@@ -1934,41 +2030,41 @@ uage=dflt;"
  (./Devulapalli_CV.aux)
 \openout1 = Devulapalli_CV.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
 
 (C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mki
 i
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count495
-\scratchdimen=\dimen283
-\scratchbox=\box92
-\nofMPsegments=\count496
-\nofMParguments=\count497
-\everyMPshowfont=\toks48
-\MPscratchCnt=\count498
-\MPscratchDim=\dimen284
-\MPnumerator=\count499
-\makeMPintoPDFobject=\count500
-\everyMPtoPDFconversion=\toks49
+\scratchcounter=\count511
+\scratchdimen=\dimen296
+\scratchbox=\box94
+\nofMPsegments=\count512
+\nofMParguments=\count513
+\everyMPshowfont=\toks53
+\MPscratchCnt=\count514
+\MPscratchDim=\dimen297
+\MPnumerator=\count515
+\makeMPintoPDFobject=\count516
+\everyMPtoPDFconversion=\toks54
 )
 (C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-ba
 se.sty
@@ -2053,20 +2149,23 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Devulapalli_CV.bbl' found.
  (./Devulapalli_CV.bbl)
-Package biblatex Info: Reference section=0 on input line 69.
-Package biblatex Info: Reference segment=0 on input line 69.
-Package hyperref Info: Link coloring ON on input line 69.
+Package biblatex Info: Reference section=0 on input line 70.
+Package biblatex Info: Reference segment=0 on input line 70.
+Package hyperref Info: Link coloring ON on input line 70.
  (./Devulapalli_CV.out) (./Devulapalli_CV.out)
 \@outlinefile=\write6
 
 \openout6 = Devulapalli_CV.out
-LaTeX Info: Redefining \microtypecontext on input line 69.
-Package microtype Info: Applying patch `item' on input line 69.
-Package microtype Info: Applying patch `toc' on input line 69.
-Package microtype Info: Applying patch `eqnum' on input line 69.
-Package microtype Info: Applying patch `footnote' on input line 69.
-Package microtype Info: Applying patch `verbatim' on input line 69.
-LaTeX Info: Redefining \microtypesetup on input line 69.
+
+Package chemgreek Info: Activating mapping `fontspec' on line 70.
+
+LaTeX Info: Redefining \microtypecontext on input line 70.
+Package microtype Info: Applying patch `item' on input line 70.
+Package microtype Info: Applying patch `toc' on input line 70.
+Package microtype Info: Applying patch `eqnum' on input line 70.
+Package microtype Info: Applying patch `footnote' on input line 70.
+Package microtype Info: Applying patch `verbatim' on input line 70.
+LaTeX Info: Redefining \microtypesetup on input line 70.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -2082,41 +2181,41 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Encoding Info:    Undeclare text command \textquotesingle (encoding TU) o
-n input line 69.
+n input line 70.
 LaTeX Encoding Info:    Redeclaring text symbol \textquotesingle (encoding TS1)
- on input line 69.
+ on input line 70.
 
 (C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/upquote/upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
 tim
 )
 LaTeX Font Info:    Font shape `TU/Cochineal(4)/m/n' will be
-(Font)              scaled to size 17.28pt on input line 70.
+(Font)              scaled to size 17.28pt on input line 71.
 LaTeX Font Info:    Font shape `TU/Cochineal(4)/b/n' will be
-(Font)              scaled to size 17.28pt on input line 70.
+(Font)              scaled to size 17.28pt on input line 71.
 LaTeX Font Info:    Font shape `TU/Cabin(0)/b/n' will be
-(Font)              scaled to size 17.28pt on input line 70.
+(Font)              scaled to size 17.28pt on input line 71.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Cabin' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `TU/Cochineal(4)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 70.
+(Font)              scaled to size 10.0pt on input line 71.
 LaTeX Font Info:    Font shape `TU/Cabin(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 70.
+(Font)              scaled to size 10.0pt on input line 71.
 
 (C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/microtype/mt-TU-empty.cf
 g
 File: mt-TU-empty.cfg 2021/06/22 v1.1 microtype config. file: fonts with nonsta
 ndard glyph set (RS)
 )
-LaTeX Font Info:    Trying to load font information for TU+zi4 on input line 70
+LaTeX Font Info:    Trying to load font information for TU+zi4 on input line 71
 .
-LaTeX Font Info:    No file TUzi4.fd. on input line 70.
+LaTeX Font Info:    No file TUzi4.fd. on input line 71.
 
 
 LaTeX Font Warning: Font shape `TU/zi4/m/n' undefined
-(Font)              using `TU/lmr/m/n' instead on input line 70.
+(Font)              using `TU/lmr/m/n' instead on input line 71.
 
 
 (C:/Users/devi/AppData/Local/Programs/MiKTeX/tex/latex/microtype/mt-LatinModern
@@ -2133,13 +2232,6 @@ Package microtype Info: Loading generic protrusion settings for font family
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 70.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 70.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 70.
-
 (./summary.tex
 LaTeX Font Info:    Font shape `TU/Cochineal(4)/m/n' will be
 (Font)              scaled to size 14.4pt on input line 1.
@@ -2291,6 +2383,14 @@ bigintcalc.sty    2019/12/15 v1.5 Expandable calculations on big integers (HO)
 rerunfilecheck.sty    2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
 uniquecounter.sty    2019/12/15 v1.4 Provide unlimited unique counter (HO)
 ragged2e.sty    2023/06/22 v3.6 ragged2e Package
+  mhchem.sty    2024/01/29 v4.10 for typesetting chemical formulae
+ amsmath.sty    2025/06/16 v2.17y AMS math features
+ amstext.sty    2024/11/17 v2.01 AMS text
+  amsgen.sty    1999/11/30 v2.0 generic functions
+  amsbsy.sty    1999/11/29 v1.2d Bold Symbols
+  amsopn.sty    2022/04/08 v2.04 operator names
+chemgreek.sty    2020/01/16 v1.1a interface for upright Greek letters for use i
+n chemistry (CN)
 microtype.sty    2025/07/09 v3.2b Micro-typographical refinements (RS)
 microtype-luatex.def    2025/07/09 v3.2b Definitions specific to luatex (RS)
 microtype.cfg    2025/07/09 v3.2b microtype main configuration file (RS)
@@ -2363,16 +2463,16 @@ Package logreq Info: Writing requests to 'Devulapalli_CV.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 42026 strings out of 470133
- 156465,1977958 words of node,token memory allocated
- 1239 words of node memory still in use:
-   20 hlist, 1 vlist, 9 rule, 1 local_par, 4 glue, 4 kern, 1 penalty, 2 margin_k
-ern, 5 glyph, 60 attribute, 91 glue_spec, 55 attribute_list, 2 write, 16 pdf_lit
-eral, 16 pdf_colorstack nodes
-   avail lists: 1:3,2:4632,3:1577,4:263,5:1509,6:107,7:12933,8:75,9:807,10:23,11
-:1090
- 69296 multiletter control sequences out of 65536+600000
- 67 fonts using 8852111 bytes
+ 43553 strings out of 470133
+ 156465,2373549 words of node,token memory allocated
+ 1314 words of node memory still in use:
+   23 hlist, 2 vlist, 10 rule, 1 local_par, 4 glue, 5 kern, 1 penalty, 2 margin_
+kern, 5 glyph, 63 attribute, 94 glue_spec, 57 attribute_list, 2 write, 16 pdf_li
+teral, 16 pdf_colorstack nodes
+   avail lists: 1:10,2:4629,3:1563,4:275,5:1524,6:110,7:12951,8:75,9:825,10:23,1
+1:1090
+ 70788 multiletter control sequences out of 65536+600000
+ 69 fonts using 8975743 bytes
  100i,11n,109p,1206b,5184s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/users/devi/appdata/local/programs/miktex/fonts/opentype/public/cochineal/coc
 hineal-italic.otf><c:/users/devi/appdata/local/programs/miktex/fonts/opentype/pu
@@ -2389,9 +2489,9 @@ lari/cabin/cabin-bold.otf><C:/Users/devi/AppData/Local/Programs/MiKTeX/fonts/typ
 e1/public/amsfonts/cm/cmmi10.pfb><C:/Users/devi/AppData/Local/Programs/MiKTeX/fo
 nts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/devi/AppData/Local/Programs/MiK
 TeX/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on Devulapalli_CV.pdf (4 pages, 113014 bytes).
+Output written on Devulapalli_CV.pdf (4 pages, 113096 bytes).
 
-PDF statistics: 191 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 192 PDF objects out of 1000 (max. 8388607)
  40 named destinations out of 1000 (max. 131072)
  186 words of extra memory for PDF output out of 10000 (max. 100000000)
 

@@ -244,6 +244,9 @@
       \true{nocite}
       \field{pages}{24}
       \range{pages}{1}
+      \verb{doi}
+      \verb 10.1051/jeos/2025021
+      \endverb
       \keyw{coauthor_paper}
     \endentry
     \entry{byloff2025atomic}{article}{}{}
@@ -331,6 +334,9 @@
       \field{title}{Atomic Layer-Deposited Interlayers for Robust Metal--Polymer Interfaces}
       \field{year}{2025}
       \true{nocite}
+      \verb{doi}
+      \verb 10.1021/acsami.5c05156
+      \endverb
       \keyw{coauthor_paper}
     \endentry
     \entry{Devulapalli2025a}{article}{}{}
@@ -394,7 +400,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{Manuscript submitted (Scripta Materialia)}
-      \field{title}{Inverse hall patch strengthening and in situ deformation mechanics in Ta2O5 - SiO2 quantum nanolaminates}
+      \field{title}{Inverse hall patch strengthening and in situ deformation mechanics in {Ta$_2$O$_5$ - SiO$_2$} quantum nanolaminates}
       \field{year}{2025}
       \true{nocite}
       \keyw{my_paper}
@@ -460,7 +466,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{Manuscript prepared (waiting for co-author approval)}
-      \field{title}{Hydrogen induced softening and deformation mechanisms in nanoparticle reinforced CoCrFeNi}
+      \field{title}{Hydrogen induced softening and deformation mechanisms in nanoparticle reinforced {CoCrFeNi}}
       \field{year}{2025}
       \true{nocite}
       \keyw{my_paper}
@@ -782,7 +788,7 @@
       \field{pages}{115505}
       \range{pages}{1}
       \verb{doi}
-      \verb https://doi.org/10.1016/j.scriptamat.2023.115505
+      \verb 10.1016/j.scriptamat.2023.115505
       \endverb
       \verb{urlraw}
       \verb https://www.sciencedirect.com/science/article/pii/S1359646223002294
@@ -873,7 +879,7 @@
       \field{pages}{111626}
       \range{pages}{1}
       \verb{doi}
-      \verb https://doi.org/10.1016/j.matdes.2023.111626
+      \verb 10.1016/j.matdes.2023.111626
       \endverb
       \verb{urlraw}
       \verb https://www.sciencedirect.com/science/article/pii/S0264127523000412
@@ -947,7 +953,7 @@
       \field{pages}{118180}
       \range{pages}{1}
       \verb{doi}
-      \verb https://doi.org/10.1016/j.actamat.2022.118180
+      \verb 10.1016/j.actamat.2022.118180
       \endverb
       \verb{urlraw}
       \verb https://www.sciencedirect.com/science/article/pii/S1359645422005614
@@ -1015,7 +1021,7 @@
       \field{pages}{150194}
       \range{pages}{1}
       \verb{doi}
-      \verb https://doi.org/10.1016/j.apsusc.2021.150194
+      \verb 10.1016/j.apsusc.2021.150194
       \endverb
       \verb{urlraw}
       \verb https://www.sciencedirect.com/science/article/pii/S0169433221012708
@@ -1368,6 +1374,9 @@
       \true{nocite}
       \field{pages}{24}
       \range{pages}{1}
+      \verb{doi}
+      \verb 10.1051/jeos/2025021
+      \endverb
       \keyw{coauthor_paper}
     \endentry
     \entry{byloff2025atomic}{article}{}{}
@@ -1455,6 +1464,9 @@
       \field{title}{Atomic Layer-Deposited Interlayers for Robust Metal--Polymer Interfaces}
       \field{year}{2025}
       \true{nocite}
+      \verb{doi}
+      \verb 10.1021/acsami.5c05156
+      \endverb
       \keyw{coauthor_paper}
     \endentry
     \entry{Devulapalli2025a}{article}{}{}
@@ -1518,7 +1530,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{Manuscript submitted (Scripta Materialia)}
-      \field{title}{Inverse hall patch strengthening and in situ deformation mechanics in Ta2O5 - SiO2 quantum nanolaminates}
+      \field{title}{Inverse hall patch strengthening and in situ deformation mechanics in {Ta$_2$O$_5$ - SiO$_2$} quantum nanolaminates}
       \field{year}{2025}
       \true{nocite}
       \keyw{my_paper}
@@ -1584,7 +1596,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{Manuscript prepared (waiting for co-author approval)}
-      \field{title}{Hydrogen induced softening and deformation mechanisms in nanoparticle reinforced CoCrFeNi}
+      \field{title}{Hydrogen induced softening and deformation mechanisms in nanoparticle reinforced {CoCrFeNi}}
       \field{year}{2025}
       \true{nocite}
       \keyw{my_paper}
@@ -1906,7 +1918,7 @@
       \field{pages}{115505}
       \range{pages}{1}
       \verb{doi}
-      \verb https://doi.org/10.1016/j.scriptamat.2023.115505
+      \verb 10.1016/j.scriptamat.2023.115505
       \endverb
       \verb{urlraw}
       \verb https://www.sciencedirect.com/science/article/pii/S1359646223002294
@@ -1997,7 +2009,7 @@
       \field{pages}{111626}
       \range{pages}{1}
       \verb{doi}
-      \verb https://doi.org/10.1016/j.matdes.2023.111626
+      \verb 10.1016/j.matdes.2023.111626
       \endverb
       \verb{urlraw}
       \verb https://www.sciencedirect.com/science/article/pii/S0264127523000412
@@ -2071,7 +2083,7 @@
       \field{pages}{118180}
       \range{pages}{1}
       \verb{doi}
-      \verb https://doi.org/10.1016/j.actamat.2022.118180
+      \verb 10.1016/j.actamat.2022.118180
       \endverb
       \verb{urlraw}
       \verb https://www.sciencedirect.com/science/article/pii/S1359645422005614
@@ -2139,7 +2151,7 @@
       \field{pages}{150194}
       \range{pages}{1}
       \verb{doi}
-      \verb https://doi.org/10.1016/j.apsusc.2021.150194
+      \verb 10.1016/j.apsusc.2021.150194
       \endverb
       \verb{urlraw}
       \verb https://www.sciencedirect.com/science/article/pii/S0169433221012708

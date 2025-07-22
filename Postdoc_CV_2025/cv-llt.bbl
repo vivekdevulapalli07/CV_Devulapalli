@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.2 $
+% $ biblatex bbl format version 3.3 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -18,8 +18,8 @@
 
 
 \refsection{0}
-  \datalist[entry]{ymdnt/apasortcite//global/global}
-    \entry{Lyrio2025}{article}{}
+  \datalist[entry]{ymdnt/apasortcite//global/global/global}
+    \entry{Lyrio2025}{article}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=05b700d0cd6230b9c230f10b39796a24}{%
            family={Lyrio},
@@ -54,10 +54,12 @@
       }
       \strng{namehash}{f9488135aaec84467cefbc86ef40a696}
       \strng{fullhash}{02f106fbbd265181aae81ce1ac1cbbe6}
+      \strng{fullhashraw}{02f106fbbd265181aae81ce1ac1cbbe6}
       \strng{bibnamehash}{02f106fbbd265181aae81ce1ac1cbbe6}
       \strng{authorbibnamehash}{02f106fbbd265181aae81ce1ac1cbbe6}
       \strng{authornamehash}{f9488135aaec84467cefbc86ef40a696}
       \strng{authorfullhash}{02f106fbbd265181aae81ce1ac1cbbe6}
+      \strng{authorfullhashraw}{02f106fbbd265181aae81ce1ac1cbbe6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -78,7 +80,7 @@
       \endverb
       \keyw{coauthor_paper}
     \endentry
-    \entry{Chatzopoulou2025}{article}{}
+    \entry{Chatzopoulou2025}{article}{}{}
       \name{author}{10}{}{%
         {{un=0,uniquepart=base,hash=9b38b696447fedddc76838fbb4c406b5}{%
            family={Chatzopoulou},
@@ -143,10 +145,12 @@
       }
       \strng{namehash}{22862ce79d8346fc3d7539352f2e6b73}
       \strng{fullhash}{27cb49f15d244315fd6e8b7aad6c1511}
+      \strng{fullhashraw}{27cb49f15d244315fd6e8b7aad6c1511}
       \strng{bibnamehash}{27cb49f15d244315fd6e8b7aad6c1511}
       \strng{authorbibnamehash}{27cb49f15d244315fd6e8b7aad6c1511}
       \strng{authornamehash}{22862ce79d8346fc3d7539352f2e6b73}
       \strng{authorfullhash}{27cb49f15d244315fd6e8b7aad6c1511}
+      \strng{authorfullhashraw}{27cb49f15d244315fd6e8b7aad6c1511}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -169,7 +173,353 @@
       \endverb
       \keyw{coauthor_paper}
     \endentry
-    \entry{Senol2024}{article}{}
+    \entry{bartschi2025uv}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=74bee8fd190beaed9fa78166635bd128}{%
+           family={Bärtschi},
+           familyi={B\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9b5b65b1f3bd418e71dc1743c5bc1dfb}{%
+           family={Waldner},
+           familyi={W\bibinitperiod},
+           given={Stephan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=53f9c6d63841192d1d0cd88f342b8c0d}{%
+           family={Thöny},
+           familyi={T\bibinitperiod},
+           given={Silvia\bibnamedelima Schwyn},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fa00ec5615e6b2ed57f2464cbf576084}{%
+           family={Maeder},
+           familyi={M\bibinitperiod},
+           given={Xavier},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=88ea5b9ab09566023282f1535ce79e2d}{%
+           family={Steger},
+           familyi={S\bibinitperiod},
+           given={Fabian},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=17d973f18dcf74cb01d6287055320966}{%
+           family={Frei},
+           familyi={F\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a20983aadbe1ead4e9cb876729dea1d7}{%
+           family={Devulapalli},
+           familyi={D\bibinitperiod},
+           given={Vivek},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {EDP Sciences}%
+      }
+      \strng{namehash}{f13afc2211414ae3c9eb71c282783b88}
+      \strng{fullhash}{55fda9dad8dcf18a481418cec8e3a75c}
+      \strng{fullhashraw}{55fda9dad8dcf18a481418cec8e3a75c}
+      \strng{bibnamehash}{55fda9dad8dcf18a481418cec8e3a75c}
+      \strng{authorbibnamehash}{55fda9dad8dcf18a481418cec8e3a75c}
+      \strng{authornamehash}{f13afc2211414ae3c9eb71c282783b88}
+      \strng{authorfullhash}{55fda9dad8dcf18a481418cec8e3a75c}
+      \strng{authorfullhashraw}{55fda9dad8dcf18a481418cec8e3a75c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the European Optical Society-Rapid Publications}
+      \field{number}{1}
+      \field{title}{UV coatings using Ta2O5-SiO2 quantized nanolaminates}
+      \field{volume}{21}
+      \field{year}{2025}
+      \true{nocite}
+      \field{pages}{24}
+      \range{pages}{1}
+      \keyw{coauthor_paper}
+    \endentry
+    \entry{byloff2025atomic}{article}{}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=b3c7bce627c2304acfa5961d7643fe4e}{%
+           family={Byloff},
+           familyi={B\bibinitperiod},
+           given={Johanna},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=717bd9c84f755739cb192622da00ab29}{%
+           family={Trost},
+           familyi={T\bibinitperiod},
+           given={Claus\bibnamedelimb Othmar\bibnamedelima Wolfgang},
+           giveni={C\bibinitperiod\bibinitdelim O\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a20983aadbe1ead4e9cb876729dea1d7}{%
+           family={Devulapalli},
+           familyi={D\bibinitperiod},
+           given={Vivek},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ec9707670b548e9a0add6f44115e5680}{%
+           family={Altaf\bibnamedelima Husain},
+           familyi={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Shuhel},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f9ef034c79c5bab1d3124b15af5c3824}{%
+           family={Faurie},
+           familyi={F\bibinitperiod},
+           given={Damien},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=932d29796449ebcc3f4f89bc2c13d176}{%
+           family={Renault},
+           familyi={R\bibinitperiod},
+           given={Pierre-Olivier},
+           giveni={P\bibinithyphendelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=756d3c451ad94b7cff08ced986c1b1b4}{%
+           family={Edwards},
+           familyi={E\bibinitperiod},
+           given={Thomas\bibnamedelimb Edward\bibnamedelima James},
+           giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1476aaef124b2302bbfb95eb498e7449}{%
+           family={Cordill},
+           familyi={C\bibinitperiod},
+           given={Megan\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a0cdb7779d8e5eca62041380a32e2f6c}{%
+           family={Casari},
+           familyi={C\bibinitperiod},
+           given={Daniele},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=25ce7e0fa4a432f64792c51ae965eb0c}{%
+           family={Putz},
+           familyi={P\bibinitperiod},
+           given={Barbara},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {ACS Publications}%
+      }
+      \strng{namehash}{0076f371d07f22a1ecfb61712f0250b9}
+      \strng{fullhash}{565dfd27178da27d50b447b5dc34a524}
+      \strng{fullhashraw}{565dfd27178da27d50b447b5dc34a524}
+      \strng{bibnamehash}{565dfd27178da27d50b447b5dc34a524}
+      \strng{authorbibnamehash}{565dfd27178da27d50b447b5dc34a524}
+      \strng{authornamehash}{0076f371d07f22a1ecfb61712f0250b9}
+      \strng{authorfullhash}{565dfd27178da27d50b447b5dc34a524}
+      \strng{authorfullhashraw}{565dfd27178da27d50b447b5dc34a524}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACS Applied Materials \& Interfaces}
+      \field{title}{Atomic Layer-Deposited Interlayers for Robust Metal--Polymer Interfaces}
+      \field{year}{2025}
+      \true{nocite}
+      \keyw{coauthor_paper}
+    \endentry
+    \entry{Devulapalli2025a}{article}{}{}
+      \name{author}{7}{ul=2}{%
+        {{un=0,uniquepart=base,hash=a20983aadbe1ead4e9cb876729dea1d7}{%
+           family={Devulapalli},
+           familyi={D\bibinitperiod},
+           given={Vivek},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac670fe8e66c8e0867e9f56d6fe665a7}{%
+           family={Klimashin},
+           familyi={K\bibinitperiod},
+           given={Fedor\bibnamedelima F.},
+           giveni={F\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=74bee8fd190beaed9fa78166635bd128}{%
+           family={Bärtschi},
+           familyi={B\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9b5b65b1f3bd418e71dc1743c5bc1dfb}{%
+           family={Waldner},
+           familyi={W\bibinitperiod},
+           given={Stephan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c565c2d39451a091a9cdb9dbc211bb6c}{%
+           family={Schẅyn\bibnamedelima Thöny},
+           familyi={S\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Silvia},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3867aff8fc92573aa2f738d0a9d40957}{%
+           family={Michler},
+           familyi={M\bibinitperiod},
+           given={Johann},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fa00ec5615e6b2ed57f2464cbf576084}{%
+           family={Maeder},
+           familyi={M\bibinitperiod},
+           given={Xavier},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cfb1b43ea61e56f6dd4075de89838bb1}
+      \strng{fullhash}{00c1356f74a312516e3262b181a85433}
+      \strng{fullhashraw}{00c1356f74a312516e3262b181a85433}
+      \strng{bibnamehash}{00c1356f74a312516e3262b181a85433}
+      \strng{authorbibnamehash}{00c1356f74a312516e3262b181a85433}
+      \strng{authornamehash}{cfb1b43ea61e56f6dd4075de89838bb1}
+      \strng{authorfullhash}{00c1356f74a312516e3262b181a85433}
+      \strng{authorfullhashraw}{00c1356f74a312516e3262b181a85433}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Manuscript in preparation}
+      \field{title}{Inverse hall patch strengthening and in situ deformation mechanics in Ta2O5 - SiO2 quantum nanolaminates}
+      \field{year}{2025}
+      \true{nocite}
+      \keyw{my_paper}
+    \endentry
+    \entry{Devulapalli2025b}{article}{}{}
+      \name{author}{7}{ul=2}{%
+        {{un=0,uniquepart=base,hash=a20983aadbe1ead4e9cb876729dea1d7}{%
+           family={Devulapalli},
+           familyi={D\bibinitperiod},
+           given={Vivek},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d57568ff66cf3198af2bf0749be52b8b}{%
+           family={Prabhakar},
+           familyi={P\bibinitperiod},
+           given={Manoj},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f275eb3cb83338b98d293186e6f576b3}{%
+           family={Schulz},
+           familyi={S\bibinitperiod},
+           given={Fiona},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fa00ec5615e6b2ed57f2464cbf576084}{%
+           family={Maeder},
+           familyi={M\bibinitperiod},
+           given={Xavier},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2afce01df5c4f0b1173eaace88d23a53}{%
+           family={Jägle},
+           familyi={J\bibinitperiod},
+           given={Eric\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=41d97d39212e9c4dfcf7362beb27f8ab}{%
+           family={Duarte},
+           familyi={D\bibinitperiod},
+           given={Jazmin},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d1520008c39d7270c7e264ab2fb106fd}{%
+           family={Dehm},
+           familyi={D\bibinitperiod},
+           given={Gerhard},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fd7fc81ffa09539651152be5addc5ce2}
+      \strng{fullhash}{c363f057b747a78246c0c9515e60c927}
+      \strng{fullhashraw}{c363f057b747a78246c0c9515e60c927}
+      \strng{bibnamehash}{c363f057b747a78246c0c9515e60c927}
+      \strng{authorbibnamehash}{c363f057b747a78246c0c9515e60c927}
+      \strng{authornamehash}{fd7fc81ffa09539651152be5addc5ce2}
+      \strng{authorfullhash}{c363f057b747a78246c0c9515e60c927}
+      \strng{authorfullhashraw}{c363f057b747a78246c0c9515e60c927}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Manuscript in preparation}
+      \field{title}{Hydrogen induced softening and deformation mechanisms in nanoparticle reinforced CoCrFeNi}
+      \field{year}{2025}
+      \true{nocite}
+      \keyw{my_paper}
+    \endentry
+    \entry{Devulapalli2025c}{article}{}{}
+      \name{author}{5}{ul=2}{%
+        {{un=0,uniquepart=base,hash=a20983aadbe1ead4e9cb876729dea1d7}{%
+           family={Devulapalli},
+           familyi={D\bibinitperiod},
+           given={Vivek},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=685a9bc8534a9897f5c7b96c5a8f32aa}{%
+           family={Vermeij},
+           familyi={V\bibinitperiod},
+           given={Tijmen},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=af1491a2bbe671539e635699d0e0b9c5}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Amit},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3867aff8fc92573aa2f738d0a9d40957}{%
+           family={Michler},
+           familyi={M\bibinitperiod},
+           given={Johann},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fa00ec5615e6b2ed57f2464cbf576084}{%
+           family={Maeder},
+           familyi={M\bibinitperiod},
+           given={Xavier},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dd79f7954ebf137b2f64a6ff8c17da47}
+      \strng{fullhash}{1a0811de7fe858c77ad6c3d156628ec7}
+      \strng{fullhashraw}{1a0811de7fe858c77ad6c3d156628ec7}
+      \strng{bibnamehash}{1a0811de7fe858c77ad6c3d156628ec7}
+      \strng{authorbibnamehash}{1a0811de7fe858c77ad6c3d156628ec7}
+      \strng{authornamehash}{dd79f7954ebf137b2f64a6ff8c17da47}
+      \strng{authorfullhash}{1a0811de7fe858c77ad6c3d156628ec7}
+      \strng{authorfullhashraw}{1a0811de7fe858c77ad6c3d156628ec7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Manuscript in preparation}
+      \field{title}{Enhanced Toughness in Cu--Al Nanolaminate Films with Amorphous Al₂O₃ Interlayers: Insights from In Situ TEM Tensile Testing}
+      \field{year}{2025}
+      \true{nocite}
+      \keyw{my_paper}
+    \endentry
+    \entry{Senol2024}{article}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=c6f4df0fe5711d66e6b782c92a9fbe96}{%
            family={Senol},
@@ -204,10 +554,12 @@
       }
       \strng{namehash}{5bd5ee255ba1f2857607554cf2dec505}
       \strng{fullhash}{f0723e92c4393d0466080b3eda5568cb}
+      \strng{fullhashraw}{f0723e92c4393d0466080b3eda5568cb}
       \strng{bibnamehash}{f0723e92c4393d0466080b3eda5568cb}
       \strng{authorbibnamehash}{f0723e92c4393d0466080b3eda5568cb}
       \strng{authornamehash}{5bd5ee255ba1f2857607554cf2dec505}
       \strng{authorfullhash}{f0723e92c4393d0466080b3eda5568cb}
+      \strng{authorfullhashraw}{f0723e92c4393d0466080b3eda5568cb}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -228,7 +580,7 @@
       \endverb
       \keyw{coauthor_paper}
     \endentry
-    \entry{Devulapalli2024a}{article}{}
+    \entry{Devulapalli2024a}{article}{}{}
       \name{author}{6}{ul=2}{%
         {{un=0,uniquepart=base,hash=a20983aadbe1ead4e9cb876729dea1d7}{%
            family={Devulapalli},
@@ -269,10 +621,12 @@
       }
       \strng{namehash}{438fe91891381fef47cf3f37943d40a8}
       \strng{fullhash}{7125a4fc8b571940f3ff250ceec5d9fe}
+      \strng{fullhashraw}{7125a4fc8b571940f3ff250ceec5d9fe}
       \strng{bibnamehash}{7125a4fc8b571940f3ff250ceec5d9fe}
       \strng{authorbibnamehash}{7125a4fc8b571940f3ff250ceec5d9fe}
       \strng{authornamehash}{438fe91891381fef47cf3f37943d40a8}
       \strng{authorfullhash}{7125a4fc8b571940f3ff250ceec5d9fe}
+      \strng{authorfullhashraw}{7125a4fc8b571940f3ff250ceec5d9fe}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -293,7 +647,7 @@
       \endverb
       \keyw{my_paper}
     \endentry
-    \entry{Devulapalli2024b}{article}{}
+    \entry{Devulapalli2024b}{article}{}{}
       \name{author}{5}{ul=2}{%
         {{un=0,uniquepart=base,hash=a20983aadbe1ead4e9cb876729dea1d7}{%
            family={Devulapalli},
@@ -328,10 +682,12 @@
       }
       \strng{namehash}{86226f44ac8fbaa746da8420ec1e96dc}
       \strng{fullhash}{f2b1c03314987320888c6cb1972b4461}
+      \strng{fullhashraw}{f2b1c03314987320888c6cb1972b4461}
       \strng{bibnamehash}{f2b1c03314987320888c6cb1972b4461}
       \strng{authorbibnamehash}{f2b1c03314987320888c6cb1972b4461}
       \strng{authornamehash}{86226f44ac8fbaa746da8420ec1e96dc}
       \strng{authorfullhash}{f2b1c03314987320888c6cb1972b4461}
+      \strng{authorfullhashraw}{f2b1c03314987320888c6cb1972b4461}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -357,7 +713,7 @@
       \endverb
       \keyw{my_paper}
     \endentry
-    \entry{Dhekne2023}{article}{}
+    \entry{Dhekne2023}{article}{}{}
       \name{author}{7}{}{%
         {{un=0,uniquepart=base,hash=9d36ac33c934620720c2f8a664a0d43b}{%
            family={Dhekne},
@@ -404,10 +760,12 @@
       }
       \strng{namehash}{8fd7a9f8d414bf5b273b575d51127181}
       \strng{fullhash}{5ca1e52dcd26b33b36ae0e6b7cd5bf03}
+      \strng{fullhashraw}{5ca1e52dcd26b33b36ae0e6b7cd5bf03}
       \strng{bibnamehash}{5ca1e52dcd26b33b36ae0e6b7cd5bf03}
       \strng{authorbibnamehash}{5ca1e52dcd26b33b36ae0e6b7cd5bf03}
       \strng{authornamehash}{8fd7a9f8d414bf5b273b575d51127181}
       \strng{authorfullhash}{5ca1e52dcd26b33b36ae0e6b7cd5bf03}
+      \strng{authorfullhashraw}{5ca1e52dcd26b33b36ae0e6b7cd5bf03}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -434,7 +792,7 @@
       \endverb
       \keyw{coauthor_paper}
     \endentry
-    \entry{Gartner2023}{article}{}
+    \entry{Gartner2023}{article}{}{}
       \name{author}{9}{}{%
         {{un=0,uniquepart=base,hash=46709eceba20af28452086d489968a76}{%
            family={Gärtner},
@@ -493,10 +851,12 @@
       }
       \strng{namehash}{74ff9d7bebcbaf6975f2d8be60c8aebe}
       \strng{fullhash}{f0c4595cb654f69904cd2de460190b81}
+      \strng{fullhashraw}{f0c4595cb654f69904cd2de460190b81}
       \strng{bibnamehash}{f0c4595cb654f69904cd2de460190b81}
       \strng{authorbibnamehash}{f0c4595cb654f69904cd2de460190b81}
       \strng{authornamehash}{74ff9d7bebcbaf6975f2d8be60c8aebe}
       \strng{authorfullhash}{f0c4595cb654f69904cd2de460190b81}
+      \strng{authorfullhashraw}{f0c4595cb654f69904cd2de460190b81}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -523,7 +883,7 @@
       \endverb
       \keyw{coauthor_paper}
     \endentry
-    \entry{Devulapalli2022}{article}{}
+    \entry{Devulapalli2022}{article}{}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=a20983aadbe1ead4e9cb876729dea1d7}{%
            family={Devulapalli},
@@ -564,10 +924,12 @@
       }
       \strng{namehash}{5dc11f7dc4125d3a445af752ea592231}
       \strng{fullhash}{de545a7e69c29e918fdb4628017e58b4}
+      \strng{fullhashraw}{de545a7e69c29e918fdb4628017e58b4}
       \strng{bibnamehash}{de545a7e69c29e918fdb4628017e58b4}
       \strng{authorbibnamehash}{de545a7e69c29e918fdb4628017e58b4}
       \strng{authornamehash}{5dc11f7dc4125d3a445af752ea592231}
       \strng{authorfullhash}{de545a7e69c29e918fdb4628017e58b4}
+      \strng{authorfullhashraw}{de545a7e69c29e918fdb4628017e58b4}
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -595,7 +957,7 @@
       \endverb
       \keyw{my_paper}
     \endentry
-    \entry{Devulapalli2021}{article}{}
+    \entry{Devulapalli2021}{article}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=a20983aadbe1ead4e9cb876729dea1d7}{%
            family={Devulapalli},
@@ -630,10 +992,12 @@
       }
       \strng{namehash}{5dc11f7dc4125d3a445af752ea592231}
       \strng{fullhash}{676153aceb58fa8c15d2a3b6fa8faa1a}
+      \strng{fullhashraw}{676153aceb58fa8c15d2a3b6fa8faa1a}
       \strng{bibnamehash}{676153aceb58fa8c15d2a3b6fa8faa1a}
       \strng{authorbibnamehash}{676153aceb58fa8c15d2a3b6fa8faa1a}
       \strng{authornamehash}{5dc11f7dc4125d3a445af752ea592231}
       \strng{authorfullhash}{676153aceb58fa8c15d2a3b6fa8faa1a}
+      \strng{authorfullhashraw}{676153aceb58fa8c15d2a3b6fa8faa1a}
       \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -661,7 +1025,7 @@
       \endverb
       \keyw{my_paper}
     \endentry
-    \entry{Vasileiadis2021}{article}{}
+    \entry{Vasileiadis2021}{article}{}{}
       \name{author}{13}{}{%
         {{un=0,uniquepart=base,hash=572e8b68cd5fdd6a5c9e5f65bfd43da0}{%
            family={Vasileiadis},
@@ -744,10 +1108,12 @@
       }
       \strng{namehash}{3d1fc419129d71e621c5919093102824}
       \strng{fullhash}{dc4831ca3d029d18141191aff46733e8}
+      \strng{fullhashraw}{dc4831ca3d029d18141191aff46733e8}
       \strng{bibnamehash}{dc4831ca3d029d18141191aff46733e8}
       \strng{authorbibnamehash}{dc4831ca3d029d18141191aff46733e8}
       \strng{authornamehash}{3d1fc419129d71e621c5919093102824}
       \strng{authorfullhash}{dc4831ca3d029d18141191aff46733e8}
+      \strng{authorfullhashraw}{dc4831ca3d029d18141191aff46733e8}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -776,8 +1142,8 @@
       \keyw{coauthor_paper}
     \endentry
   \enddatalist
-  \datalist[entry]{ymdnt/global//global/global}
-    \entry{Lyrio2025}{article}{}
+  \datalist[entry]{ymdnt/global//global/global/global}
+    \entry{Lyrio2025}{article}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=05b700d0cd6230b9c230f10b39796a24}{%
            family={Lyrio},
@@ -812,10 +1178,12 @@
       }
       \strng{namehash}{f9488135aaec84467cefbc86ef40a696}
       \strng{fullhash}{02f106fbbd265181aae81ce1ac1cbbe6}
+      \strng{fullhashraw}{02f106fbbd265181aae81ce1ac1cbbe6}
       \strng{bibnamehash}{02f106fbbd265181aae81ce1ac1cbbe6}
       \strng{authorbibnamehash}{02f106fbbd265181aae81ce1ac1cbbe6}
       \strng{authornamehash}{f9488135aaec84467cefbc86ef40a696}
       \strng{authorfullhash}{02f106fbbd265181aae81ce1ac1cbbe6}
+      \strng{authorfullhashraw}{02f106fbbd265181aae81ce1ac1cbbe6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -836,7 +1204,7 @@
       \endverb
       \keyw{coauthor_paper}
     \endentry
-    \entry{Chatzopoulou2025}{article}{}
+    \entry{Chatzopoulou2025}{article}{}{}
       \name{author}{10}{}{%
         {{un=0,uniquepart=base,hash=9b38b696447fedddc76838fbb4c406b5}{%
            family={Chatzopoulou},
@@ -901,10 +1269,12 @@
       }
       \strng{namehash}{22862ce79d8346fc3d7539352f2e6b73}
       \strng{fullhash}{27cb49f15d244315fd6e8b7aad6c1511}
+      \strng{fullhashraw}{27cb49f15d244315fd6e8b7aad6c1511}
       \strng{bibnamehash}{27cb49f15d244315fd6e8b7aad6c1511}
       \strng{authorbibnamehash}{27cb49f15d244315fd6e8b7aad6c1511}
       \strng{authornamehash}{22862ce79d8346fc3d7539352f2e6b73}
       \strng{authorfullhash}{27cb49f15d244315fd6e8b7aad6c1511}
+      \strng{authorfullhashraw}{27cb49f15d244315fd6e8b7aad6c1511}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -927,7 +1297,353 @@
       \endverb
       \keyw{coauthor_paper}
     \endentry
-    \entry{Senol2024}{article}{}
+    \entry{bartschi2025uv}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=74bee8fd190beaed9fa78166635bd128}{%
+           family={Bärtschi},
+           familyi={B\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9b5b65b1f3bd418e71dc1743c5bc1dfb}{%
+           family={Waldner},
+           familyi={W\bibinitperiod},
+           given={Stephan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=53f9c6d63841192d1d0cd88f342b8c0d}{%
+           family={Thöny},
+           familyi={T\bibinitperiod},
+           given={Silvia\bibnamedelima Schwyn},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fa00ec5615e6b2ed57f2464cbf576084}{%
+           family={Maeder},
+           familyi={M\bibinitperiod},
+           given={Xavier},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=88ea5b9ab09566023282f1535ce79e2d}{%
+           family={Steger},
+           familyi={S\bibinitperiod},
+           given={Fabian},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=17d973f18dcf74cb01d6287055320966}{%
+           family={Frei},
+           familyi={F\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a20983aadbe1ead4e9cb876729dea1d7}{%
+           family={Devulapalli},
+           familyi={D\bibinitperiod},
+           given={Vivek},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {EDP Sciences}%
+      }
+      \strng{namehash}{f13afc2211414ae3c9eb71c282783b88}
+      \strng{fullhash}{55fda9dad8dcf18a481418cec8e3a75c}
+      \strng{fullhashraw}{55fda9dad8dcf18a481418cec8e3a75c}
+      \strng{bibnamehash}{55fda9dad8dcf18a481418cec8e3a75c}
+      \strng{authorbibnamehash}{55fda9dad8dcf18a481418cec8e3a75c}
+      \strng{authornamehash}{f13afc2211414ae3c9eb71c282783b88}
+      \strng{authorfullhash}{55fda9dad8dcf18a481418cec8e3a75c}
+      \strng{authorfullhashraw}{55fda9dad8dcf18a481418cec8e3a75c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the European Optical Society-Rapid Publications}
+      \field{number}{1}
+      \field{title}{UV coatings using Ta2O5-SiO2 quantized nanolaminates}
+      \field{volume}{21}
+      \field{year}{2025}
+      \true{nocite}
+      \field{pages}{24}
+      \range{pages}{1}
+      \keyw{coauthor_paper}
+    \endentry
+    \entry{byloff2025atomic}{article}{}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=b3c7bce627c2304acfa5961d7643fe4e}{%
+           family={Byloff},
+           familyi={B\bibinitperiod},
+           given={Johanna},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=717bd9c84f755739cb192622da00ab29}{%
+           family={Trost},
+           familyi={T\bibinitperiod},
+           given={Claus\bibnamedelimb Othmar\bibnamedelima Wolfgang},
+           giveni={C\bibinitperiod\bibinitdelim O\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a20983aadbe1ead4e9cb876729dea1d7}{%
+           family={Devulapalli},
+           familyi={D\bibinitperiod},
+           given={Vivek},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ec9707670b548e9a0add6f44115e5680}{%
+           family={Altaf\bibnamedelima Husain},
+           familyi={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Shuhel},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f9ef034c79c5bab1d3124b15af5c3824}{%
+           family={Faurie},
+           familyi={F\bibinitperiod},
+           given={Damien},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=932d29796449ebcc3f4f89bc2c13d176}{%
+           family={Renault},
+           familyi={R\bibinitperiod},
+           given={Pierre-Olivier},
+           giveni={P\bibinithyphendelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=756d3c451ad94b7cff08ced986c1b1b4}{%
+           family={Edwards},
+           familyi={E\bibinitperiod},
+           given={Thomas\bibnamedelimb Edward\bibnamedelima James},
+           giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1476aaef124b2302bbfb95eb498e7449}{%
+           family={Cordill},
+           familyi={C\bibinitperiod},
+           given={Megan\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a0cdb7779d8e5eca62041380a32e2f6c}{%
+           family={Casari},
+           familyi={C\bibinitperiod},
+           given={Daniele},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=25ce7e0fa4a432f64792c51ae965eb0c}{%
+           family={Putz},
+           familyi={P\bibinitperiod},
+           given={Barbara},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {ACS Publications}%
+      }
+      \strng{namehash}{0076f371d07f22a1ecfb61712f0250b9}
+      \strng{fullhash}{565dfd27178da27d50b447b5dc34a524}
+      \strng{fullhashraw}{565dfd27178da27d50b447b5dc34a524}
+      \strng{bibnamehash}{565dfd27178da27d50b447b5dc34a524}
+      \strng{authorbibnamehash}{565dfd27178da27d50b447b5dc34a524}
+      \strng{authornamehash}{0076f371d07f22a1ecfb61712f0250b9}
+      \strng{authorfullhash}{565dfd27178da27d50b447b5dc34a524}
+      \strng{authorfullhashraw}{565dfd27178da27d50b447b5dc34a524}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACS Applied Materials \& Interfaces}
+      \field{title}{Atomic Layer-Deposited Interlayers for Robust Metal--Polymer Interfaces}
+      \field{year}{2025}
+      \true{nocite}
+      \keyw{coauthor_paper}
+    \endentry
+    \entry{Devulapalli2025a}{article}{}{}
+      \name{author}{7}{ul=2}{%
+        {{un=0,uniquepart=base,hash=a20983aadbe1ead4e9cb876729dea1d7}{%
+           family={Devulapalli},
+           familyi={D\bibinitperiod},
+           given={Vivek},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac670fe8e66c8e0867e9f56d6fe665a7}{%
+           family={Klimashin},
+           familyi={K\bibinitperiod},
+           given={Fedor\bibnamedelima F.},
+           giveni={F\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=74bee8fd190beaed9fa78166635bd128}{%
+           family={Bärtschi},
+           familyi={B\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9b5b65b1f3bd418e71dc1743c5bc1dfb}{%
+           family={Waldner},
+           familyi={W\bibinitperiod},
+           given={Stephan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c565c2d39451a091a9cdb9dbc211bb6c}{%
+           family={Schẅyn\bibnamedelima Thöny},
+           familyi={S\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Silvia},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3867aff8fc92573aa2f738d0a9d40957}{%
+           family={Michler},
+           familyi={M\bibinitperiod},
+           given={Johann},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fa00ec5615e6b2ed57f2464cbf576084}{%
+           family={Maeder},
+           familyi={M\bibinitperiod},
+           given={Xavier},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cfb1b43ea61e56f6dd4075de89838bb1}
+      \strng{fullhash}{00c1356f74a312516e3262b181a85433}
+      \strng{fullhashraw}{00c1356f74a312516e3262b181a85433}
+      \strng{bibnamehash}{00c1356f74a312516e3262b181a85433}
+      \strng{authorbibnamehash}{00c1356f74a312516e3262b181a85433}
+      \strng{authornamehash}{cfb1b43ea61e56f6dd4075de89838bb1}
+      \strng{authorfullhash}{00c1356f74a312516e3262b181a85433}
+      \strng{authorfullhashraw}{00c1356f74a312516e3262b181a85433}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Manuscript in preparation}
+      \field{title}{Inverse hall patch strengthening and in situ deformation mechanics in Ta2O5 - SiO2 quantum nanolaminates}
+      \field{year}{2025}
+      \true{nocite}
+      \keyw{my_paper}
+    \endentry
+    \entry{Devulapalli2025b}{article}{}{}
+      \name{author}{7}{ul=2}{%
+        {{un=0,uniquepart=base,hash=a20983aadbe1ead4e9cb876729dea1d7}{%
+           family={Devulapalli},
+           familyi={D\bibinitperiod},
+           given={Vivek},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d57568ff66cf3198af2bf0749be52b8b}{%
+           family={Prabhakar},
+           familyi={P\bibinitperiod},
+           given={Manoj},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f275eb3cb83338b98d293186e6f576b3}{%
+           family={Schulz},
+           familyi={S\bibinitperiod},
+           given={Fiona},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fa00ec5615e6b2ed57f2464cbf576084}{%
+           family={Maeder},
+           familyi={M\bibinitperiod},
+           given={Xavier},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2afce01df5c4f0b1173eaace88d23a53}{%
+           family={Jägle},
+           familyi={J\bibinitperiod},
+           given={Eric\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=41d97d39212e9c4dfcf7362beb27f8ab}{%
+           family={Duarte},
+           familyi={D\bibinitperiod},
+           given={Jazmin},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d1520008c39d7270c7e264ab2fb106fd}{%
+           family={Dehm},
+           familyi={D\bibinitperiod},
+           given={Gerhard},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fd7fc81ffa09539651152be5addc5ce2}
+      \strng{fullhash}{c363f057b747a78246c0c9515e60c927}
+      \strng{fullhashraw}{c363f057b747a78246c0c9515e60c927}
+      \strng{bibnamehash}{c363f057b747a78246c0c9515e60c927}
+      \strng{authorbibnamehash}{c363f057b747a78246c0c9515e60c927}
+      \strng{authornamehash}{fd7fc81ffa09539651152be5addc5ce2}
+      \strng{authorfullhash}{c363f057b747a78246c0c9515e60c927}
+      \strng{authorfullhashraw}{c363f057b747a78246c0c9515e60c927}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Manuscript in preparation}
+      \field{title}{Hydrogen induced softening and deformation mechanisms in nanoparticle reinforced CoCrFeNi}
+      \field{year}{2025}
+      \true{nocite}
+      \keyw{my_paper}
+    \endentry
+    \entry{Devulapalli2025c}{article}{}{}
+      \name{author}{5}{ul=2}{%
+        {{un=0,uniquepart=base,hash=a20983aadbe1ead4e9cb876729dea1d7}{%
+           family={Devulapalli},
+           familyi={D\bibinitperiod},
+           given={Vivek},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=685a9bc8534a9897f5c7b96c5a8f32aa}{%
+           family={Vermeij},
+           familyi={V\bibinitperiod},
+           given={Tijmen},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=af1491a2bbe671539e635699d0e0b9c5}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Amit},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3867aff8fc92573aa2f738d0a9d40957}{%
+           family={Michler},
+           familyi={M\bibinitperiod},
+           given={Johann},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fa00ec5615e6b2ed57f2464cbf576084}{%
+           family={Maeder},
+           familyi={M\bibinitperiod},
+           given={Xavier},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dd79f7954ebf137b2f64a6ff8c17da47}
+      \strng{fullhash}{1a0811de7fe858c77ad6c3d156628ec7}
+      \strng{fullhashraw}{1a0811de7fe858c77ad6c3d156628ec7}
+      \strng{bibnamehash}{1a0811de7fe858c77ad6c3d156628ec7}
+      \strng{authorbibnamehash}{1a0811de7fe858c77ad6c3d156628ec7}
+      \strng{authornamehash}{dd79f7954ebf137b2f64a6ff8c17da47}
+      \strng{authorfullhash}{1a0811de7fe858c77ad6c3d156628ec7}
+      \strng{authorfullhashraw}{1a0811de7fe858c77ad6c3d156628ec7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Manuscript in preparation}
+      \field{title}{Enhanced Toughness in Cu--Al Nanolaminate Films with Amorphous Al₂O₃ Interlayers: Insights from In Situ TEM Tensile Testing}
+      \field{year}{2025}
+      \true{nocite}
+      \keyw{my_paper}
+    \endentry
+    \entry{Senol2024}{article}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=c6f4df0fe5711d66e6b782c92a9fbe96}{%
            family={Senol},
@@ -962,10 +1678,12 @@
       }
       \strng{namehash}{5bd5ee255ba1f2857607554cf2dec505}
       \strng{fullhash}{f0723e92c4393d0466080b3eda5568cb}
+      \strng{fullhashraw}{f0723e92c4393d0466080b3eda5568cb}
       \strng{bibnamehash}{f0723e92c4393d0466080b3eda5568cb}
       \strng{authorbibnamehash}{f0723e92c4393d0466080b3eda5568cb}
       \strng{authornamehash}{5bd5ee255ba1f2857607554cf2dec505}
       \strng{authorfullhash}{f0723e92c4393d0466080b3eda5568cb}
+      \strng{authorfullhashraw}{f0723e92c4393d0466080b3eda5568cb}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -986,7 +1704,7 @@
       \endverb
       \keyw{coauthor_paper}
     \endentry
-    \entry{Devulapalli2024a}{article}{}
+    \entry{Devulapalli2024a}{article}{}{}
       \name{author}{6}{ul=2}{%
         {{un=0,uniquepart=base,hash=a20983aadbe1ead4e9cb876729dea1d7}{%
            family={Devulapalli},
@@ -1027,10 +1745,12 @@
       }
       \strng{namehash}{438fe91891381fef47cf3f37943d40a8}
       \strng{fullhash}{7125a4fc8b571940f3ff250ceec5d9fe}
+      \strng{fullhashraw}{7125a4fc8b571940f3ff250ceec5d9fe}
       \strng{bibnamehash}{7125a4fc8b571940f3ff250ceec5d9fe}
       \strng{authorbibnamehash}{7125a4fc8b571940f3ff250ceec5d9fe}
       \strng{authornamehash}{438fe91891381fef47cf3f37943d40a8}
       \strng{authorfullhash}{7125a4fc8b571940f3ff250ceec5d9fe}
+      \strng{authorfullhashraw}{7125a4fc8b571940f3ff250ceec5d9fe}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1051,7 +1771,7 @@
       \endverb
       \keyw{my_paper}
     \endentry
-    \entry{Devulapalli2024b}{article}{}
+    \entry{Devulapalli2024b}{article}{}{}
       \name{author}{5}{ul=2}{%
         {{un=0,uniquepart=base,hash=a20983aadbe1ead4e9cb876729dea1d7}{%
            family={Devulapalli},
@@ -1086,10 +1806,12 @@
       }
       \strng{namehash}{86226f44ac8fbaa746da8420ec1e96dc}
       \strng{fullhash}{f2b1c03314987320888c6cb1972b4461}
+      \strng{fullhashraw}{f2b1c03314987320888c6cb1972b4461}
       \strng{bibnamehash}{f2b1c03314987320888c6cb1972b4461}
       \strng{authorbibnamehash}{f2b1c03314987320888c6cb1972b4461}
       \strng{authornamehash}{86226f44ac8fbaa746da8420ec1e96dc}
       \strng{authorfullhash}{f2b1c03314987320888c6cb1972b4461}
+      \strng{authorfullhashraw}{f2b1c03314987320888c6cb1972b4461}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1115,7 +1837,7 @@
       \endverb
       \keyw{my_paper}
     \endentry
-    \entry{Dhekne2023}{article}{}
+    \entry{Dhekne2023}{article}{}{}
       \name{author}{7}{}{%
         {{un=0,uniquepart=base,hash=9d36ac33c934620720c2f8a664a0d43b}{%
            family={Dhekne},
@@ -1162,10 +1884,12 @@
       }
       \strng{namehash}{8fd7a9f8d414bf5b273b575d51127181}
       \strng{fullhash}{5ca1e52dcd26b33b36ae0e6b7cd5bf03}
+      \strng{fullhashraw}{5ca1e52dcd26b33b36ae0e6b7cd5bf03}
       \strng{bibnamehash}{5ca1e52dcd26b33b36ae0e6b7cd5bf03}
       \strng{authorbibnamehash}{5ca1e52dcd26b33b36ae0e6b7cd5bf03}
       \strng{authornamehash}{8fd7a9f8d414bf5b273b575d51127181}
       \strng{authorfullhash}{5ca1e52dcd26b33b36ae0e6b7cd5bf03}
+      \strng{authorfullhashraw}{5ca1e52dcd26b33b36ae0e6b7cd5bf03}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1192,7 +1916,7 @@
       \endverb
       \keyw{coauthor_paper}
     \endentry
-    \entry{Gartner2023}{article}{}
+    \entry{Gartner2023}{article}{}{}
       \name{author}{9}{}{%
         {{un=0,uniquepart=base,hash=46709eceba20af28452086d489968a76}{%
            family={Gärtner},
@@ -1251,10 +1975,12 @@
       }
       \strng{namehash}{74ff9d7bebcbaf6975f2d8be60c8aebe}
       \strng{fullhash}{f0c4595cb654f69904cd2de460190b81}
+      \strng{fullhashraw}{f0c4595cb654f69904cd2de460190b81}
       \strng{bibnamehash}{f0c4595cb654f69904cd2de460190b81}
       \strng{authorbibnamehash}{f0c4595cb654f69904cd2de460190b81}
       \strng{authornamehash}{74ff9d7bebcbaf6975f2d8be60c8aebe}
       \strng{authorfullhash}{f0c4595cb654f69904cd2de460190b81}
+      \strng{authorfullhashraw}{f0c4595cb654f69904cd2de460190b81}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1281,7 +2007,7 @@
       \endverb
       \keyw{coauthor_paper}
     \endentry
-    \entry{Devulapalli2022}{article}{}
+    \entry{Devulapalli2022}{article}{}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=a20983aadbe1ead4e9cb876729dea1d7}{%
            family={Devulapalli},
@@ -1322,10 +2048,12 @@
       }
       \strng{namehash}{5dc11f7dc4125d3a445af752ea592231}
       \strng{fullhash}{de545a7e69c29e918fdb4628017e58b4}
+      \strng{fullhashraw}{de545a7e69c29e918fdb4628017e58b4}
       \strng{bibnamehash}{de545a7e69c29e918fdb4628017e58b4}
       \strng{authorbibnamehash}{de545a7e69c29e918fdb4628017e58b4}
       \strng{authornamehash}{5dc11f7dc4125d3a445af752ea592231}
       \strng{authorfullhash}{de545a7e69c29e918fdb4628017e58b4}
+      \strng{authorfullhashraw}{de545a7e69c29e918fdb4628017e58b4}
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -1353,7 +2081,7 @@
       \endverb
       \keyw{my_paper}
     \endentry
-    \entry{Devulapalli2021}{article}{}
+    \entry{Devulapalli2021}{article}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=a20983aadbe1ead4e9cb876729dea1d7}{%
            family={Devulapalli},
@@ -1388,10 +2116,12 @@
       }
       \strng{namehash}{5dc11f7dc4125d3a445af752ea592231}
       \strng{fullhash}{676153aceb58fa8c15d2a3b6fa8faa1a}
+      \strng{fullhashraw}{676153aceb58fa8c15d2a3b6fa8faa1a}
       \strng{bibnamehash}{676153aceb58fa8c15d2a3b6fa8faa1a}
       \strng{authorbibnamehash}{676153aceb58fa8c15d2a3b6fa8faa1a}
       \strng{authornamehash}{5dc11f7dc4125d3a445af752ea592231}
       \strng{authorfullhash}{676153aceb58fa8c15d2a3b6fa8faa1a}
+      \strng{authorfullhashraw}{676153aceb58fa8c15d2a3b6fa8faa1a}
       \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -1419,7 +2149,7 @@
       \endverb
       \keyw{my_paper}
     \endentry
-    \entry{Vasileiadis2021}{article}{}
+    \entry{Vasileiadis2021}{article}{}{}
       \name{author}{13}{}{%
         {{un=0,uniquepart=base,hash=572e8b68cd5fdd6a5c9e5f65bfd43da0}{%
            family={Vasileiadis},
@@ -1502,10 +2232,12 @@
       }
       \strng{namehash}{3d1fc419129d71e621c5919093102824}
       \strng{fullhash}{dc4831ca3d029d18141191aff46733e8}
+      \strng{fullhashraw}{dc4831ca3d029d18141191aff46733e8}
       \strng{bibnamehash}{dc4831ca3d029d18141191aff46733e8}
       \strng{authorbibnamehash}{dc4831ca3d029d18141191aff46733e8}
       \strng{authornamehash}{3d1fc419129d71e621c5919093102824}
       \strng{authorfullhash}{dc4831ca3d029d18141191aff46733e8}
+      \strng{authorfullhashraw}{dc4831ca3d029d18141191aff46733e8}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
